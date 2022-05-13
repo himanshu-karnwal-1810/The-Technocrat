@@ -8,6 +8,7 @@ int main()
 	for(i=0;a[i]!=0;i++)
 	{
 		b[i]=a[i];
+		
 	}
 	printf("%s\n",b);
 	b[i]='\0';
